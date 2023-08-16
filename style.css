@@ -1,0 +1,537 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.navigation {
+    background-color: #005CB4;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
+.child1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    padding: 10px;
+    height: 80px;
+    width: 100px;
+}
+
+.productlist {
+    width: 60%;
+    color: white;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Nav_button {
+    width: 20%;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: #005CB4;
+    color: white;
+}
+
+.background {
+    margin-top: 100px;
+    height: 700px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+.imageContainer {
+    width: 50%;
+    padding-top: 100px;
+}
+
+.textContainer {
+    width: 50%;
+}
+
+/* Hero Section Starts Here */
+.hero {
+    height: 600px;
+    margin-top: 100px;
+    padding-top: 40px;
+    background: url(./images/hero-bg.png) no-repeat center/cover;
+    display: flex;
+    align-items: end;
+    position: relative;
+}
+
+.row {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.col {
+    flex: 1;
+    text-align: right;
+}
+
+.banner__text {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.Music {
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.Unlock_container {
+    background-color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    max-width: 50%;
+    border: 2px solid white;
+    border-radius: 60px;
+    margin-left: 150px;
+}
+
+.Unlock_text {
+    margin: 0;
+}
+
+.Apple_Music {
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+    margin: 0;
+    color: white;
+}
+
+.contanier_offer {
+    display: flex;
+}
+
+.Free_Months {
+    margin-top: 0;
+    margin-left: 130px;
+    margin-bottom: 0;
+    font-size: 30px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+.Free {
+    
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 40px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    width: 100px;
+}
+
+.Free_H1 {
+    margin: 0;
+    text-align: center;
+}
+
+.Chance_container {
+    display: flex;
+    margin-left: 80px;
+    color: white;
+}
+
+.Win {
+    margin-top: 7px;
+    margin-right: 5px;
+}
+
+.Prices{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+
+.get_button {
+    background: transparent;
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    border: 2px solid white;
+    border-radius: 20px;
+    color: white;
+}
+
+.restrictions {
+    color: white;
+    font-size: 15px;
+    margin: 0;
+}
+
+.p1 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+}
+
+/* Hero Section   Ends Here*/
+
+
+/* Hero Section 2 start here */
+
+.container2 {
+    display: flex;
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    align-items: center;
+}
+
+.cane1 {
+    width: 50%;
+    margin-top: 100px;
+}
+
+.text_Zero {
+    width: 50%;
+    height: 500px;
+}
+
+.Cane {
+    height: 500px;
+    width: 120%;
+}
+
+.Ui1 {
+    align-items: center;
+    margin-left: 65px;
+    width: 66%;
+    margin-top: 190px;
+}
+
+.tried_image {
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+.belive {
+    width: 70%;
+}
+
+/* Hero Section 2 Ends Here*/
+
+/* Hero Section 3 Starts Here */
+
+.container3 {
+    background-image: url(./images/background.jpg);
+    height: 650px;
+    width: 100%;
+}
+
+.row2 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.col2 {
+    height: 650px;
+    flex: 1;
+    text-align: right;
+}
+
+.Nitro_cane {
+    margin-top: 50px;
+    height: 600px;
+}
+
+.Nitro_text {
+    margin-top: 150px;
+    margin-right: 250px;
+    height: 250px;
+}
+
+.Smooth {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-top: 0;
+    margin-right: 270px;
+}
+
+.More_product {
+    width: 25%;
+    height: 30px;
+    border: 3px solid white;
+    border-radius: 20px;
+    background-color:transparent;
+    color: white;
+    margin-right: 350px;
+}
+/* Hero Section 3 End Here */
+
+
+/* Hero Section 4 Starts Here */
+
+.container4 {
+    height: 650px;
+    background-color: #005CB4;
+}
+
+.Pic_col {
+    display: flex;
+    width: 40%;
+    /* align-items: center; */
+    flex-direction: column;
+}
+
+.row3{
+    display: flex;
+}
+
+.burger_col {
+    width: 60%;
+    background-image: url(./images/Bagroundimage.png);
+    background-repeat: no-repeat;
+    height: 650px;
+    display: flex;
+    align-items: end;
+    text-align: right;
+}
+
+.tag_img {
+    width: 50%;
+}
+
+.Pic_col1{
+    height: 50%;
+}
+
+.Pic_col2 {
+    height: 50%;
+}
+
+figure {
+    width: 450px;
+    color: white;
+    background-color: #004B93;
+    text-align: center;
+    font-size: large;
+    font-family: 'Oswald', sans-serif;
+}
+
+/* Hero Section 4 End Here */
+
+
+/* Hero Section 5 starts Here */
+
+.container5 {
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/pepsi-mango/bg-2-desktop@2x.png);
+    background-size: 110%;
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 100%;
+    background-color: #013f79;
+    display: flex;
+}
+
+.perfect {
+    height: 650px;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 32px;
+}
+
+.Mango_container {
+    height: 650px;
+    width: 65%;
+}
+
+/* Hero Section 5 End Here */
+
+
+
+/* Hero Section 6 Starts Here */
+
+.container6 {
+    height: 800px;
+    width: 100%;
+}
+
+video {
+    width: 100%;
+}
+
+/* Hero Section 6 End Here */
+
+
+
+/* Hero Section 7 Starts Here */
+
+.container7 {
+    display: flex;
+    height: 650px;
+    width: 100%;
+    background-color: #0e579b;
+    justify-content: center;
+}
+
+.pepsi8 {
+    margin-top: 65px;
+    height: 90%;
+}
+
+.like_img {
+    height: 60%;
+    margin-top: 109px;
+}
+/* Hero Section 7 End Here */
+
+
+/* Hero Section 8 Starts Here */
+
+.container8 {
+    display: flex;
+    height: 500px;
+    background-color: #004B93;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+}
+
+.flavor {
+    color: white;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+}
+
+.canes3 {
+    width: 560px;
+}
+
+.View_products {
+    border: 3px solid white;
+    color: white;
+    background-color: transparent;
+    border-radius: 20px;
+    width: 150px;
+    height: 30px;
+    margin-top: 25px;
+}
+
+/* Hero Section 8 End Here */
+
+
+/* Hero Section 9 End Here */
+
+
+.stay {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    color: #005CB4;
+}
+
+.parant_container {
+    display: flex;
+    justify-content: center;
+}
+
+.childs {
+    height: 240px;
+    width: 240px;
+}
+
+.child_1 {
+    background-image: url("https://www.pepsi.com/en-us/uploads/images/social-twitter.png?mtime=20180110134932");
+    background-size: cover;
+}
+
+.child_2 {
+    background-image: url("https://www.pepsi.com/en-us/uploads/images/social-facebook.png?mtime=20180110134926");
+    background-size: cover;
+}
+
+.child_3 {
+    background-image: url("https://www.pepsi.com/en-us/uploads/images/social-instagram.png?mtime=20180110134928");
+    background-size: cover;
+}
+
+.child_4 {
+    background-image: url("https://www.pepsi.com/en-us/uploads/images/social-youtube.png?mtime=20180110134934");
+    background-size: cover;
+}
+
+.child_5 {
+    background-image: url("https://www.pepsi.com/en-us/uploads/images/social-tiktok.png");
+    background-size: cover;
+}
+
+.twitter1 {
+    width: 40px;
+    position: relative;
+    top: 80%;
+    left: 4%;
+}
+
+.facebook1 {
+    width: 40px;
+    position: relative;
+    top: 80%;
+    left: 4%;
+}
+
+.instagram1 {
+    width: 40px;
+    position: relative;
+    top: 80%;
+    left: 4%;
+}
+
+.youtube1 {
+    width: 40px;
+    position: relative;
+    top: 80%;
+    left: 4%;
+}
+
+.tiktok1 {
+    width: 40px;
+    position: relative;
+    top: 80%;
+    left: 4%;
+}
+
+/* Hero Section 9 End Here */
+
+
+
+/* Hero Section 10 Starts Here */
+
+
+.container10 {
+    height: 300px;
+    width: 100%;
+    background-color: #036cce;
+}
+
+
+
+/* Hero Section 10 Starts Here */

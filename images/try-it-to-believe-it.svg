@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205.37" height="15.216" viewBox="0 0 205.37 15.216">
+    <defs>
+        <clipPath id="0cwy2ihs4a">
+            <path data-name="Rectangle 14" style="fill:none" d="M0 0h205.37v15.216H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 94" style="clip-path:url(#0cwy2ihs4a)">
+        <path data-name="Path 40" d="M390.12 15.216a7.608 7.608 0 1 1 7.56-7.608 7.585 7.585 0 0 1-7.56 7.608" transform="translate(-192.309)" style="fill:#fff"/>
+        <path data-name="Path 41" d="M398.213 7.43a5.007 5.007 0 0 1-1.823 5.514c-2.145 1.589-5.273 1.592-9.589 2.962a7.094 7.094 0 0 0 12.555-4.587 7.148 7.148 0 0 0-1.144-3.889" transform="translate(-194.441 -3.711)" style="fill:#004881"/>
+        <path data-name="Path 42" d="M394.84 2.34a7.042 7.042 0 0 0-4.261-1.429 7.161 7.161 0 0 0-5.719 11.4 14.8 14.8 0 0 0 9.98-9.968" transform="translate(-192.767 -.455)" style="fill:#e50029"/>
+        <path data-name="Path 43" d="M11.389 2.191v3.061H7.641v9.695H3.73V5.252H0V2.191z" transform="translate(0 -1.094)" style="fill:#fff"/>
+        <path data-name="Path 44" d="M36.006 12.87c.108.255.815 2.078.815 2.078h-4.2s-.635-1.622-.8-2.023c-.307-.82-.6-1.713-1.883-1.713H29v3.736h-3.912V2.191h5.9c3.495 0 5.232 1.969 5.232 4.227a3.487 3.487 0 0 1-2.317 3.463c.489.273 1.105.437 2.1 2.989m-3.654-6.087A1.544 1.544 0 0 0 30.7 5.252H29v3.08h1.7a1.538 1.538 0 0 0 1.648-1.549" transform="translate(-12.611 -1.094)" style="fill:#fff"/>
+        <path data-name="Path 45" d="m52.619 7.494 2.353-5.3h3.911l-4.4 8.364v4.392h-3.91v-4.395l-4.4-8.364H50.3z" transform="translate(-23.211 -1.094)" style="fill:#fff"/>
+        <path data-name="Rectangle 11" transform="translate(40.202 1.097)" style="fill:#fff" d="M0 0h3.911v12.756H0z"/>
+        <path data-name="Path 46" d="M102.278 2.191v3.061h-3.749v9.695h-3.91V5.252h-3.73V2.191z" transform="translate(-45.689 -1.094)" style="fill:#fff"/>
+        <path data-name="Path 47" d="M133.92 2.191v3.061h-3.748v9.695h-3.91V5.252h-3.73V2.191z" transform="translate(-61.595 -1.094)" style="fill:#fff"/>
+        <path data-name="Path 48" d="M152.534 1.609c4.309 0 6.9 2.861 6.9 6.669 0 3.5-2.3 6.669-6.9 6.669-4.526 0-6.88-3.079-6.88-6.669 0-3.79 2.571-6.669 6.88-6.669m0 3.171c-1.811 0-2.879 1.6-2.879 3.5s1.032 3.48 2.879 3.48c1.72 0 2.9-1.421 2.9-3.48 0-1.8-.978-3.5-2.9-3.5" transform="translate(-73.219 -.804)" style="fill:#fff"/>
+        <path data-name="Path 49" d="M194.662 5.617c0 2.332-1.43 2.788-2.119 2.861v.037a2.967 2.967 0 0 1 2.807 2.861c0 2-1.231 3.572-5.088 3.572h-6.156V2.191h6.066c3.386 0 4.49 1.676 4.49 3.426m-3.531.583a1.062 1.062 0 0 0-1.177-1.093H188v2.15h1.955a1.055 1.055 0 0 0 1.176-1.057m.254 4.72c0-.656-.453-1.13-1.34-1.13H188v2.242h2.046c.923 0 1.34-.529 1.34-1.112" transform="translate(-92.548 -1.094)" style="fill:#fff"/>
+        <path data-name="Path 50" d="M218.263 11.867v3.08h-9.723V2.191h9.451v3.061h-5.558v1.859h4.255v2.843h-4.255v1.913z" transform="translate(-104.831 -1.094)" style="fill:#fff"/>
+        <path data-name="Path 51" d="M239.315 11.867v3.08h-8.854V2.191h3.911v9.676z" transform="translate(-115.85 -1.094)" style="fill:#fff"/>
+        <path data-name="Rectangle 12" transform="translate(124.552 1.097)" style="fill:#fff" d="M0 0h3.911v12.756H0z"/>
+        <path data-name="Path 52" d="M271.682 11.867v3.08h-9.723V2.191h9.451v3.061h-5.558v1.859h4.255v2.843h-4.255v1.913z" transform="translate(-131.684 -1.094)" style="fill:#fff"/>
+        <path data-name="Path 53" d="M291.513 2.191h3.911l-3.567 12.756h-5.667l-3.766-12.756h4.11l2.5 9.112z" transform="translate(-141.972 -1.094)" style="fill:#fff"/>
+        <path data-name="Path 54" d="M319.748 11.867v3.08h-9.723V2.191h9.451v3.061h-5.558v1.859h4.255v2.843h-4.255v1.913z" transform="translate(-155.846 -1.094)" style="fill:#fff"/>
+        <path data-name="Rectangle 13" transform="translate(169.064 1.097)" style="fill:#fff" d="M0 0h3.911v12.756H0z"/>
+        <path data-name="Path 55" d="M361.4 2.191v3.061h-3.748v9.695h-3.91V5.252h-3.73V2.191z" transform="translate(-175.945 -1.094)" style="fill:#fff"/>
+    </g>
+</svg>
