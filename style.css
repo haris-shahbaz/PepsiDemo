@@ -24,6 +24,11 @@ body {
     width: 100px;
 }
 
+.logo:hover {
+    transform: rotate(360deg);
+    transition-duration: 0.5s;
+}
+
 .productlist {
     width: 60%;
     color: white;
@@ -543,6 +548,11 @@ video {
 .footer_div1 {
     width: 40%;
     margin-left: 15%;
+}
+
+.footer_div1:hover {
+    transform: rotate(360deg);
+    transition-duration: 0.5s;
 }
 
 .footer_list {
